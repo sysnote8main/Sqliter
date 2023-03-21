@@ -1,4 +1,4 @@
-# Sqliter
+# Sqliter forked version
 A single class java sqlite wrapper. Sqliter makes easy to work with sqlite database by wrapping the queries into hashmap.
 
 ## Android version
